@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/matan-3/ryady-i-integraly-fure/ekstremalnoe-svojstvo-chastichnoj-summy-ryada-fure-elementa-f/"}
 ---
 
-
-
+---
 ### Формулировка теоремы
 
 При фиксированном $n$ из всех сумм вида $\sum_{k=1}^n c_k \psi_k$ наименьшее отклонение от элемента $f$ по норме данного евклидова пространства имеет $n$-я частичная сумма ряда Фурье этого элемента, т.е. сумма $\sum_{k=1}^n f_k \psi_k$, где $f_k$ — коэффициенты Фурье элемента $f$.
