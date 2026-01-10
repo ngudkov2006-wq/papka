@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/test/"}
 ---
 
-tesеq
+tesеq a&
