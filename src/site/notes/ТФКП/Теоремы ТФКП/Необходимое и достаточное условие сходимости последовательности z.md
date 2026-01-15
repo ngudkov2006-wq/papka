@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tfkp/teoremy-tfkp/neobhodimoe-i-dostatochnoe-uslovie-shodimosti-posledovatelnosti-z/"}
 ---
 
-
+й
 ***
 ### Формулировка теоремы
 
